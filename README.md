@@ -1,16 +1,11 @@
-### Hi there 👋
+# I'm a beginner frontend developer
 
-<!--
-**SinXong/sinxong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+![HTML](https://img.shields.io/badge/HTML-rgb(19,27,40)?style=for-the-badge&logo=HTML5)
+![SCSS](https://img.shields.io/badge/SCSS-rgb(19,27,40)?style=for-the-badge&logo=SASS)
+![JavaScript](https://img.shields.io/badge/JavaScript-rgb(19,27,40)?style=for-the-badge&logo=JavaScript)
+![jQuery](https://img.shields.io/badge/jQuery-rgb(19,27,40)?style=for-the-badge&logo=jQuery)
+![NodeJS](https://img.shields.io/badge/NodeJS-rgb(19,27,40)?style=for-the-badge&logo=Node.js)
+![Webpack](https://img.shields.io/badge/Webpack-rgb(19,27,40)?style=for-the-badge&logo=Webpack)
+![Gulp](https://img.shields.io/badge/Gulp-rgb(19,27,40)?style=for-the-badge&logo=Gulp)
+![Vue](https://img.shields.io/badge/Vue-rgb(19,27,40)?style=for-the-badge&logo=Vue.js)
